@@ -1,4 +1,5 @@
 📊 Brightness Employee Termination Data Analysis – Case Study
+
 🧠 Project Overview
 
 This project focuses on analyzing the employee termination records of Brightness Ltd., a fictional retail organization.
